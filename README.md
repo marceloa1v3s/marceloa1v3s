@@ -31,10 +31,16 @@ Experiência com:
 ---
 
 ## 💻 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 Desenvolvimento de interfaces modernas com:
 
+- Flutter
 - React.js
+- Svelte
 - JavaScript moderno (ES6+)
 - Bootstrap
 - HTML5
@@ -59,12 +65,24 @@ Aplico **Vibe Coding** para transformar rapidamente requisitos e ideias em prot�
 - Clareza na experiência do usuário
 
 ### 🤖 Ferramentas de Inteligência Artificial que utilizo no dia a dia:
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Penpot](https://img.shields.io/badge/penpot-%23FFFFFF.svg?style=for-the-badge&logo=penpot&logoColor=black)
 
 - Antigravity
 - Claude (Anthropic)
 - Kimi 2.5
-- Figma Make
+- Figma Make (Figma/Adobe)
+- Google Stitch
 - Gemini (Google)
+- Copilot (Microsoft)
+- GPT Open AI
+- Penpot
+
 
 Uso IA para:
 
