@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/m4rcelo-a/m4rcelo-a/raw/main/assets/hero-design-tech.gif" width="100%" alt="Banner animado abstrato representando design e tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=1000&lines=Product+Designer;UX+Researcher;Frontend+Developer;React+Specialist;AI-Augmented+Builder;Vibe+Coding+Practitioner" />
 
   <br>
 
