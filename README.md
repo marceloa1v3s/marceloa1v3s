@@ -1,30 +1,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=1000&lines=Product+Designer;UX+Researcher;Frontend+Developer;React+Specialist;AI-Augmented+Builder;Vibe+Coding+Practitioner" />
 
+  <h1>Olá, eu sou o Marcelo! <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/main/assets/handshake.gif" width="30px"></h1>  
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Product+Designer+🎨;UX+Researcher+🔍;Frontend+Developer+💻;React+Specialist+⚛️;AI-Augmented+Builder+🤖;Vibe+Coding+Practitioner+✨" alt="Typing SVG" />
-  
-  <br>
-
-  <h1>Olá, eu sou o Marcelo! <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/main/assets/handshake.gif" width="30px"></h1>
-  
-  <p align="center">
-    <strong>Building the future of interfaces by merging Human-Centered Design, Frontend Code, and Artificial Intelligence.</strong>
-  </p>
-  
-  <br>
-
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:marceloaccel2@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
   </a>
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/marcelo-alves-gomes/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_mocha_lavender.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br>
 
 ## <img src="https://media.giphy.com/media/WUlplcM55IorT463Nq/giphy.gif" width="30px"> Sobre Mim
@@ -82,20 +71,16 @@ Não apenas uso IAs, eu as integro ao meu processo criativo e técnico para gara
   <img src="https://raw.githubusercontent.com/marceloa1v3s/marceloa1v3s/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<br>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/dividers/catppuccin_mocha_lavender.png" width="100%" />
-<br>
-
 ## 🚀 Vamos conversar?
 
 Estou disponível para oportunidades como **Product Designer**, **UX/UI Lead** ou **Frontend Engineer** em times que queiram inovar na intersecção de Design e IA.
 
 <div align="center">
   <br>
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/marcelo-alves-gomes/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:marceloaccel2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Message-00C2FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br><br>
