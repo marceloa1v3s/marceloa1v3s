@@ -111,8 +111,7 @@ Minha abordagem é baseada em **Human-in-the-Loop + AI Collaboration**, onde a i
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloa1v3s&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=marceloa1v3s&theme=radical" alt="GitHub Stats" />
 ---
 
 ## 📫 Disponível para
@@ -124,4 +123,4 @@ Minha abordagem é baseada em **Human-in-the-Loop + AI Collaboration**, onde a i
 - Times orientados a inovação e IA
 - Produtos digitais que exigem clareza e performance
 
-![Snake animation](https://raw.githubusercontent.com/marceloa1v3s/marceloa1v3s/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/marceloa1v3s/marceloa1v3s/output/github-contribution-grid-snake.svg" alt="Snake animation" />
