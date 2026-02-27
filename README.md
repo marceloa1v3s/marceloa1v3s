@@ -107,32 +107,11 @@ Minha abordagem é baseada em **Human-in-the-Loop + AI Collaboration**, onde a i
 - Prototipação acelerada com IA
 - Automação de fluxos criativos
   
-## 🔎 Keywords
-
-Product Designer  
-UX Designer  
-UI Designer  
-UX Researcher  
-Frontend Developer  
-React Developer  
-AI-Augmented Developer  
-AI-Assisted Design  
-Vibe Coding  
-Design System Specialist  
-Especialista em Acessibilidade WCAG  
-Arquitetura da Informação  
-UX para Governo  
-Digital Product Designer  
-Human + AI Workflow  
-
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marceloa1v3s&theme=radical)
 
 ---
 
@@ -145,4 +124,4 @@ Human + AI Workflow
 - Times orientados a inovação e IA
 - Produtos digitais que exigem clareza e performance
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/marceloa1v3s/marceloa1v3s/output/github-contribution-grid-snake.svg)
