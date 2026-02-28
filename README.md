@@ -67,7 +67,7 @@ Não apenas uso IAs, eu as integro ao meu processo criativo e técnico para gara
 <br>
 
 <div align="center">
-  <p><em>Minha jornada de contribuições (ativada por AI):</em></p>
+  <p><em>Minha jornada de contribuições:</em></p>
   <img src="https://raw.githubusercontent.com/marceloa1v3s/marceloa1v3s/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
