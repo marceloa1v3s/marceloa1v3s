@@ -22,7 +22,7 @@ Sou um **Product Designer Pleno (UX/UI)** com alma de desenvolvedor. Minha miss�
 
 * 🎯 **Foco:** Discovery, UX Research, Design Systems e Acessibilidade (WCAG 2.1).
 * 🛠️ **Código:** Atuação ativa no Frontend com React e JavaScript moderno.
-* 🤖 **Diferencial:** Pioneiro na aplicação de IAs generativas e *Vibe Coding* para acelerar o ciclo de design-to-code.
+* 🤖 **Diferencial:** Aplicação de IAs generativas e *Vibe Coding* para acelerar o ciclo de design-to-code.
 
 ---
 
