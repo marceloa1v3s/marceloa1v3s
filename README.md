@@ -45,8 +45,8 @@ Sou um **Product Designer Pleno (UX/UI)** com alma de desenvolvedor. Minha miss�
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🦾 AI-Augmented Workflow (Meu Superpoder)
-Não apenas uso IAs, eu as integro ao meu processo criativo e técnico para garantir velocidade e consistência.
+### 🦾 AI-Augmented Workflow
+Eu as integro ao meu processo criativo e técnico para garantir velocidade e consistência.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-D97757?style=for-the-badge&logo=claude&logoColor=white" />
